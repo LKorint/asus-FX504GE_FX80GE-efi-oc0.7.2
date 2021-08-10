@@ -1,5 +1,5 @@
 # asus-FX504GE_FX80GE-efi-oc0.7.2
-hackintosh
+hackintosh 黑苹果
 
 已正确驱动big sur 11.5
 处理器 英特尔i5-8300h
